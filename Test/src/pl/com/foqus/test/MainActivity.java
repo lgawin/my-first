@@ -3,6 +3,7 @@ package pl.com.foqus.test;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import pl.com.foqus.test.github.R;
 
 public class MainActivity extends Activity {
 
